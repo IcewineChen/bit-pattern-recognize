@@ -1,5 +1,8 @@
 # 模式识别
 
+## content
+整个project包含了图像高低通滤波，曝光修补，直方图均衡化处理，各种算子进行锐化，模糊与还原
+以及huffman编码及还原的内容
 ## requirements
 首先请在测试环境上安装python2.7及pip,本次实验代码并未在python3和window环境下进行测试。
 
